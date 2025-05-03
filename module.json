@@ -9,7 +9,7 @@
       "flags": {}
     }
   ],
-  "version": "0.2.4",
+  "version": "0.2.5",
   "compatibility": {
     "minimum": "11",
     "verified": "12.331"
@@ -215,6 +215,18 @@
       "type": "RollTable",
       "name": "critical-wound-tables",
       "path": "packs/critical-wound-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Subclasses (Valombreuse)",
+      "type": "Item",
+      "name": "subclasses-valombreuse",
+      "path": "packs/subclasses-valombreuse",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",

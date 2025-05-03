@@ -9,6 +9,16 @@ CONFIG.DND5E.spellSchools.pob = { label: "Power of the Bear", fullkey: "powerbea
 CONFIG.DND5E.spellSchools.aad = { label: "Alpha Domination", fullkey: "alphadomination", icon: "module/ValombreuseSRD5/icons/aad.web",reference: ""};
 CONFIG.DND5E.spellSchools.eev = { label: "Eagle Vision", fullkey: "eaglevision", icon: "module/ValombreuseSRD5/icons/eev.web",reference: ""};
 CONFIG.DND5E.spellSchools.eld = { label: "Elemental Dragon", fullkey: "elementaldragon", icon: "module/ValombreuseSRD5/icons/eld.web",reference: ""};
+CONFIG.DND5E.spellSchools.arb = { label: "Air Bending", fullkey: "airbending", icon: "module/ValombreuseSRD5/icons/arb.web",reference: ""};
+CONFIG.DND5E.spellSchools.dec = { label: "Corruption Domain", fullkey: "corruptiondomain", icon: "module/ValombreuseSRD5/icons/dec.web",reference: ""};
+CONFIG.DND5E.spellSchools.dnm = { label: "Dragon Metamorphosis", fullkey: "dragonmetamorphosis", icon: "module/ValombreuseSRD5/icons/dnm.web",reference: ""};
+CONFIG.DND5E.spellSchools.hoe = { label: "Harmony with the Earth", fullkey: "earthharmony", icon: "module/ValombreuseSRD5/icons/hoe.web",reference: ""};
+CONFIG.DND5E.spellSchools.htp = { label: "Heart of the Pack", fullkey: "heartpack", icon: "module/ValombreuseSRD5/icons/htp.web",reference: ""};
+CONFIG.DND5E.spellSchools.nef = { label: "Nature Fellowship", fullkey: "naturefellowship", icon: "module/ValombreuseSRD5/icons/nef.web",reference: ""};
+CONFIG.DND5E.spellSchools.pnk = { label: "Protection of the Kingdom", fullkey: "protectionkingdom", icon: "module/ValombreuseSRD5/icons/pnk.web",reference: ""};
+CONFIG.DND5E.spellSchools.pob = { label: "Power of the Bear", fullkey: "powerbear", icon: "module/ValombreuseSRD5/icons/pob.web",reference: ""};
+CONFIG.DND5E.spellSchools.tyb = { label: "Rebirth of the Phoenix", fullkey: "phoenixrebirth", icon: "module/ValombreuseSRD5/icons/rhp.web",reference: ""};
+CONFIG.DND5E.spellSchools.eld = { label: "Tenacity of the Bull", fullkey: "bulltenacity", icon: "module/ValombreuseSRD5/icons/tyb.web",reference: ""};
 });
 
 /*Hooks.on('createActor', async function (actor, options, userID) {
