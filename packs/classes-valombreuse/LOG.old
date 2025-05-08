@@ -1,7 +1,3 @@
-2025/04/24-15:11:41.087 3d3c Recovering log #219
-2025/04/24-15:11:41.105 3d3c Delete type=0 #219
-2025/04/24-15:11:41.105 3d3c Delete type=3 #216
-2025/04/24-20:00:47.176 81d0 Level-0 table #225: started
-2025/04/24-20:00:47.176 81d0 Level-0 table #225: 0 bytes OK
-2025/04/24-20:00:47.182 81d0 Delete type=0 #223
-2025/04/24-20:00:47.183 81d0 Manual compaction at level-0 from '!items!DwryxuRJD1ChOWOK' @ 72057594037927935 : 1 .. '!items!rVYFwmI4Sh3pC2Xd' @ 0 : 0; will stop at (end)
+2025/04/24-20:01:19.225 3d3c Recovering log #224
+2025/04/24-20:01:19.243 3d3c Delete type=0 #224
+2025/04/24-20:01:19.244 3d3c Delete type=3 #222
